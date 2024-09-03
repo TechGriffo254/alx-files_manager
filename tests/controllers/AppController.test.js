@@ -1,4 +1,3 @@
-
 /* eslint-disable import/no-named-as-default */
 import dbClient from '../../utils/db';
 
@@ -67,4 +66,3 @@ describe('+ AppController', () => {
     });
   });
 });
-
